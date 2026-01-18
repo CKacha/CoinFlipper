@@ -25,7 +25,7 @@ export const CONFIG = {
     stateFile: STATE_FILE,
     logLevel: LOG_LEVEL,
     defaultFlags: DEFAULT_FLAGS,
-    leaderboardChannelIds: (process.env.SLACK_LEADERBOARD_CHANNEL_ID || "C09JKUGGTMH")
+    leaderboardChannelIds: (process.env.SLACK_LEADERBOARD_CHANNEL_ID || "C08SKC6P85V")
         .split(",")
         .map(s => s.trim())
         .filter(Boolean),

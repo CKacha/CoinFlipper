@@ -6,7 +6,7 @@
       "play": true,
       "see": true,
       "createdAt": "2025-10-05T19:54:33.726Z",
-      "updatedAt": "2025-10-09T04:11:30.474Z",
+      "updatedAt": "2025-10-13T04:04:58.583Z",
       "stats": {
         "currentStreak": 1,
         "longestStreak": 12
@@ -39,7 +39,7 @@
       "play": true,
       "see": true,
       "createdAt": "2025-10-06T04:29:54.687Z",
-      "updatedAt": "2025-10-12T01:10:25.901Z",
+      "updatedAt": "2025-10-13T04:04:14.560Z",
       "stats": {
         "currentStreak": 8,
         "longestStreak": 8
@@ -136,12 +136,12 @@
     "U09GGK1JTC4": {
       "id": "U09GGK1JTC4",
       "play": true,
-      "see": false,
+      "see": true,
       "createdAt": "2025-10-08T12:55:59.941Z",
-      "updatedAt": "2025-10-08T15:11:28.261Z",
+      "updatedAt": "2025-10-13T04:17:18.111Z",
       "stats": {
         "currentStreak": 0,
-        "longestStreak": 0
+        "longestStreak": 3
       }
     },
     "U086TNY7PE0": {
@@ -187,88 +187,115 @@
         "currentStreak": 0,
         "longestStreak": 0
       }
+    },
+    "U07H8T3AL2W": {
+      "id": "U07H8T3AL2W",
+      "play": true,
+      "see": false,
+      "createdAt": "2025-10-12T15:48:53.183Z",
+      "updatedAt": "2025-10-12T15:48:53.186Z",
+      "stats": {
+        "currentStreak": 0,
+        "longestStreak": 0
+      }
+    },
+    "U07KSFH1GGP": {
+      "id": "U07KSFH1GGP",
+      "play": false,
+      "see": false,
+      "createdAt": "2025-10-14T04:35:11.803Z",
+      "updatedAt": "2025-10-14T04:35:11.803Z",
+      "stats": {
+        "currentStreak": 0,
+        "longestStreak": 0
+      }
     }
   },
   "balances": {
     "U0828FYS2UC": {
       "userId": "U0828FYS2UC",
-      "amount": 180,
-      "updatedAt": "2025-10-08T21:38:56.679Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.294Z"
     },
     "U03U380TSNT": {
       "userId": "U03U380TSNT",
-      "amount": 185,
-      "updatedAt": "2025-10-08T21:51:02.012Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.315Z"
     },
     "U091JJ2JF8E": {
       "userId": "U091JJ2JF8E",
       "amount": 200,
-      "updatedAt": "2025-10-07T23:28:16.148Z"
+      "updatedAt": "2025-10-14T04:00:00.335Z"
     },
     "U0947SL6AKB": {
       "userId": "U0947SL6AKB",
-      "amount": 215,
-      "updatedAt": "2025-10-08T00:39:04.876Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.356Z"
     },
     "U090B1V22BD": {
       "userId": "U090B1V22BD",
-      "amount": 210,
-      "updatedAt": "2025-10-08T10:43:14.181Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.378Z"
     },
     "U079XM9PARJ": {
       "userId": "U079XM9PARJ",
       "amount": 200,
-      "updatedAt": "2025-10-07T23:28:16.162Z"
+      "updatedAt": "2025-10-14T04:00:00.399Z"
     },
     "U092BGL0UUQ": {
       "userId": "U092BGL0UUQ",
-      "amount": 0,
-      "updatedAt": "2025-10-08T21:38:55.054Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.429Z"
     },
     "U08U68WA0CR": {
       "userId": "U08U68WA0CR",
       "amount": 200,
-      "updatedAt": "2025-10-07T23:28:16.172Z"
+      "updatedAt": "2025-10-14T04:00:00.449Z"
     },
     "U08S635DBUN": {
       "userId": "U08S635DBUN",
       "amount": 200,
-      "updatedAt": "2025-10-07T23:28:16.177Z"
+      "updatedAt": "2025-10-14T04:00:00.471Z"
     },
     "U0926KMCVDJ": {
       "userId": "U0926KMCVDJ",
-      "amount": 145,
-      "updatedAt": "2025-10-08T21:51:03.568Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.494Z"
     },
     "U09GWV19TN1": {
       "userId": "U09GWV19TN1",
-      "amount": 20,
-      "updatedAt": "2025-10-08T00:34:13.768Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.517Z"
     },
     "U09GGK1JTC4": {
       "userId": "U09GGK1JTC4",
-      "amount": 0,
-      "updatedAt": "2025-10-08T15:11:28.261Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.536Z"
     },
     "U086TNY7PE0": {
       "userId": "U086TNY7PE0",
-      "amount": 0,
-      "updatedAt": "2025-10-08T15:36:31.767Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.555Z"
     },
     "U09CK4WGQUF": {
       "userId": "U09CK4WGQUF",
-      "amount": 0,
-      "updatedAt": "2025-10-09T10:30:38.468Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.573Z"
     },
     "U091L1X1XBM": {
       "userId": "U091L1X1XBM",
-      "amount": 0,
-      "updatedAt": "2025-10-11T11:08:27.351Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.590Z"
     },
     "U07D01SEFFV": {
       "userId": "U07D01SEFFV",
-      "amount": 0,
-      "updatedAt": "2025-10-11T18:08:24.508Z"
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.658Z"
+    },
+    "U07H8T3AL2W": {
+      "userId": "U07H8T3AL2W",
+      "amount": 200,
+      "updatedAt": "2025-10-14T04:00:00.705Z"
     }
   },
   "inventory": {},
@@ -1532,6 +1559,616 @@
       "refId": "challenge:9ae8f704-77b4-4162-88bc-6e014eec0523",
       "idemKey": "challenge:9ae8f704-77b4-4162-88bc-6e014eec0523:payout:U0926KMCVDJ",
       "createdAt": "2025-10-08T21:51:03.568Z"
+    },
+    {
+      "txId": "69128b69-8602-414b-bcf1-d1afdee4fc27",
+      "userId": "U0828FYS2UC",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 280,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.032Z"
+    },
+    {
+      "txId": "2aaaa3fa-f714-4ab4-946f-f18ba2e71e9e",
+      "userId": "U03U380TSNT",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 285,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.037Z"
+    },
+    {
+      "txId": "04304747-31aa-4fd5-895f-e59b7476cff7",
+      "userId": "U091JJ2JF8E",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 300,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.043Z"
+    },
+    {
+      "txId": "77eea882-d475-4e58-b94a-74a91de0c437",
+      "userId": "U0947SL6AKB",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 315,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.048Z"
+    },
+    {
+      "txId": "d0125b22-fe0e-4f20-bd6c-7f9dfcb33010",
+      "userId": "U090B1V22BD",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 310,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.052Z"
+    },
+    {
+      "txId": "99e94bdb-615c-4af7-8084-046346da8a08",
+      "userId": "U079XM9PARJ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 300,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.058Z"
+    },
+    {
+      "txId": "90bd75bb-404c-403c-befd-9f86198350dc",
+      "userId": "U092BGL0UUQ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.062Z"
+    },
+    {
+      "txId": "5bcdb3f0-e74c-414f-9ae7-7e9e2d91e624",
+      "userId": "U08U68WA0CR",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 300,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.068Z"
+    },
+    {
+      "txId": "927d38c3-42aa-4335-b3af-23c4028f43a0",
+      "userId": "U08S635DBUN",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 300,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.073Z"
+    },
+    {
+      "txId": "6b1e6d28-9e40-4dd1-bda6-f9de57278713",
+      "userId": "U0926KMCVDJ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 245,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.078Z"
+    },
+    {
+      "txId": "fe575b3c-b7f6-40b8-a0ad-289e193480e6",
+      "userId": "U09GWV19TN1",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 120,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.083Z"
+    },
+    {
+      "txId": "62e59c10-f70d-4a29-8461-d974f0249dfe",
+      "userId": "U09GGK1JTC4",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.088Z"
+    },
+    {
+      "txId": "fe22db24-daa0-4531-915f-a582d88c8837",
+      "userId": "U086TNY7PE0",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.094Z"
+    },
+    {
+      "txId": "6723658b-da4e-4c31-b113-c622c3736ada",
+      "userId": "U09CK4WGQUF",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.100Z"
+    },
+    {
+      "txId": "8bf6c3eb-7a25-4980-900d-59a83b6abd94",
+      "userId": "U091L1X1XBM",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.105Z"
+    },
+    {
+      "txId": "03c0df7b-a518-4071-9209-a733d43ef855",
+      "userId": "U07D01SEFFV",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.110Z"
+    },
+    {
+      "txId": "2e225f02-7b2e-421e-8cbb-3744365e5dea",
+      "userId": "U0828FYS2UC",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.096Z"
+    },
+    {
+      "txId": "708fca6a-3f77-4e3d-9750-af4867b3efaa",
+      "userId": "U03U380TSNT",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.109Z"
+    },
+    {
+      "txId": "fb9a94ee-dff4-4841-9fa0-d39e1d225eb8",
+      "userId": "U091JJ2JF8E",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.117Z"
+    },
+    {
+      "txId": "ee942296-6100-4577-84fc-dd9a298d1143",
+      "userId": "U0947SL6AKB",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.129Z"
+    },
+    {
+      "txId": "7cd946a1-8efe-4275-bc84-539e29bf77f4",
+      "userId": "U090B1V22BD",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.140Z"
+    },
+    {
+      "txId": "0c8815a9-de91-45c1-bc0e-e91f5a28a5e1",
+      "userId": "U079XM9PARJ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.148Z"
+    },
+    {
+      "txId": "c6e73e1a-1349-492f-a49b-c254e5b2c52e",
+      "userId": "U092BGL0UUQ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.156Z"
+    },
+    {
+      "txId": "522b884a-8a3e-4d0e-981d-5eb4d61d1696",
+      "userId": "U08U68WA0CR",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.164Z"
+    },
+    {
+      "txId": "0f06fbc0-3f86-4dee-8951-2ac83f332e5e",
+      "userId": "U08S635DBUN",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.172Z"
+    },
+    {
+      "txId": "70f7f9aa-d803-4e76-a119-14808df624fa",
+      "userId": "U0926KMCVDJ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.181Z"
+    },
+    {
+      "txId": "90e4acd0-8c74-4826-b31e-0907e0484604",
+      "userId": "U09GWV19TN1",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.192Z"
+    },
+    {
+      "txId": "f1076a2a-47a4-4429-bca4-ff63ed59fdf2",
+      "userId": "U09GGK1JTC4",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.202Z"
+    },
+    {
+      "txId": "13f61fb5-acc2-4f6b-8c30-a8ca72b322dc",
+      "userId": "U086TNY7PE0",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.213Z"
+    },
+    {
+      "txId": "2f1115c1-13a9-4bb0-837b-0556505d6785",
+      "userId": "U09CK4WGQUF",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.229Z"
+    },
+    {
+      "txId": "84576970-3c88-440f-b5b5-e9d8a7e3b547",
+      "userId": "U091L1X1XBM",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.240Z"
+    },
+    {
+      "txId": "46bcdb0f-ce0a-4007-938e-788fed1d58a8",
+      "userId": "U07D01SEFFV",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.251Z"
+    },
+    {
+      "txId": "cc9b79af-6387-48d7-b24d-386c3fbfa4bd",
+      "userId": "U07H8T3AL2W",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 100,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.259Z"
+    },
+    {
+      "txId": "1b74c638-5499-49ef-822e-84942317bc97",
+      "userId": "U09GGK1JTC4",
+      "type": "bet",
+      "amount": -5,
+      "balanceAfter": 95,
+      "refId": "self:V09LHGPRSRX",
+      "idemKey": "self:V09LHGPRSRX:bet",
+      "createdAt": "2025-10-13T04:04:52.116Z"
+    },
+    {
+      "txId": "bee992f5-f344-4384-9ffc-895aaf0f09f3",
+      "userId": "U09GGK1JTC4",
+      "type": "win",
+      "amount": 10,
+      "balanceAfter": 105,
+      "refId": "self:V09LHGPRSRX",
+      "idemKey": "self:V09LHGPRSRX:payout",
+      "createdAt": "2025-10-13T04:04:52.122Z"
+    },
+    {
+      "txId": "a08a198b-6f37-4b55-b8c3-25bac639d9a8",
+      "userId": "U09GGK1JTC4",
+      "type": "bet",
+      "amount": -50,
+      "balanceAfter": 55,
+      "refId": "self:V09LHGPPX09",
+      "idemKey": "self:V09LHGPPX09:bet",
+      "createdAt": "2025-10-13T04:05:09.475Z"
+    },
+    {
+      "txId": "812103de-c4b0-42bd-959e-f03e3a0b121c",
+      "userId": "U09GGK1JTC4",
+      "type": "win",
+      "amount": 100,
+      "balanceAfter": 155,
+      "refId": "self:V09LHGPPX09",
+      "idemKey": "self:V09LHGPPX09:payout",
+      "createdAt": "2025-10-13T04:05:09.482Z"
+    },
+    {
+      "txId": "513abe19-3004-43b0-afa6-f0cfaf5ef1b3",
+      "userId": "U09GGK1JTC4",
+      "type": "bet",
+      "amount": -5,
+      "balanceAfter": 150,
+      "refId": "self:V09LHHM3P41",
+      "idemKey": "self:V09LHHM3P41:bet",
+      "createdAt": "2025-10-13T04:16:30.608Z"
+    },
+    {
+      "txId": "e30dfb21-2b08-4ed4-8e90-439130966087",
+      "userId": "U09GGK1JTC4",
+      "type": "win",
+      "amount": 10,
+      "balanceAfter": 160,
+      "refId": "self:V09LHHM3P41",
+      "idemKey": "self:V09LHHM3P41:payout",
+      "createdAt": "2025-10-13T04:16:30.617Z"
+    },
+    {
+      "txId": "8a647a22-7a0c-48c2-8a79-5b4d4c84c5a1",
+      "userId": "U09GGK1JTC4",
+      "type": "bet",
+      "amount": -40,
+      "balanceAfter": 120,
+      "refId": "self:V09LYUHCB2L",
+      "idemKey": "self:V09LYUHCB2L:bet",
+      "createdAt": "2025-10-13T04:16:42.094Z"
+    },
+    {
+      "txId": "5ba9e482-c437-49cc-af7f-8f17c3e82ace",
+      "userId": "U09GGK1JTC4",
+      "type": "bet",
+      "amount": -20,
+      "balanceAfter": 100,
+      "refId": "self:V09KP706SDD",
+      "idemKey": "self:V09KP706SDD:bet",
+      "createdAt": "2025-10-13T04:16:52.750Z"
+    },
+    {
+      "txId": "27a59b43-4d81-4388-a249-4693cc7de9a0",
+      "userId": "U09GGK1JTC4",
+      "type": "win",
+      "amount": 40,
+      "balanceAfter": 140,
+      "refId": "self:V09KP706SDD",
+      "idemKey": "self:V09KP706SDD:payout",
+      "createdAt": "2025-10-13T04:16:52.757Z"
+    },
+    {
+      "txId": "2c038067-0f5f-4838-a113-f9eab5593493",
+      "userId": "U09GGK1JTC4",
+      "type": "bet",
+      "amount": -20,
+      "balanceAfter": 120,
+      "refId": "self:V09L872ETQC",
+      "idemKey": "self:V09L872ETQC:bet",
+      "createdAt": "2025-10-13T04:17:12.177Z"
+    },
+    {
+      "txId": "ea63a44f-feff-41a7-b538-b267c7704977",
+      "userId": "U09GGK1JTC4",
+      "type": "bet",
+      "amount": -20,
+      "balanceAfter": 100,
+      "refId": "self:V09KY8PTAJX",
+      "idemKey": "self:V09KY8PTAJX:bet",
+      "createdAt": "2025-10-13T04:17:18.107Z"
+    },
+    {
+      "txId": "2185b29a-34e1-4942-8a91-32a911e2f59e",
+      "userId": "U0828FYS2UC",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.294Z"
+    },
+    {
+      "txId": "a904d1ca-f1a9-4caf-a906-9fbea6de0d84",
+      "userId": "U03U380TSNT",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.315Z"
+    },
+    {
+      "txId": "b50e21c0-a7ac-4d60-87bc-cacc3cc7137c",
+      "userId": "U091JJ2JF8E",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.335Z"
+    },
+    {
+      "txId": "f96aa65f-daff-4921-8ab0-ab194a6a1dd4",
+      "userId": "U0947SL6AKB",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.356Z"
+    },
+    {
+      "txId": "393a1dd4-715d-4de0-8562-dacc2ca125cd",
+      "userId": "U090B1V22BD",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.378Z"
+    },
+    {
+      "txId": "f9ed9c7f-1e23-497d-baa7-343c58266e15",
+      "userId": "U079XM9PARJ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.399Z"
+    },
+    {
+      "txId": "6d0576ec-e5c1-4ecb-9e94-7f725409c3a3",
+      "userId": "U092BGL0UUQ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.429Z"
+    },
+    {
+      "txId": "eb179264-2a8d-4acc-9819-8a55db68e3f7",
+      "userId": "U08U68WA0CR",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.449Z"
+    },
+    {
+      "txId": "e4a14853-9938-4ec4-98d0-16da0e61815d",
+      "userId": "U08S635DBUN",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.471Z"
+    },
+    {
+      "txId": "14530b05-869a-4df0-aedd-787a685963d0",
+      "userId": "U0926KMCVDJ",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.494Z"
+    },
+    {
+      "txId": "4ac16e22-db95-47a2-a67c-1fd9f6a43879",
+      "userId": "U09GWV19TN1",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.517Z"
+    },
+    {
+      "txId": "ed7d7e10-3300-4309-bb62-4abeec702ba7",
+      "userId": "U09GGK1JTC4",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.536Z"
+    },
+    {
+      "txId": "adc36d26-4a8e-4974-aa8f-da6444d68d53",
+      "userId": "U086TNY7PE0",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.555Z"
+    },
+    {
+      "txId": "278a27b0-79ea-411b-8cd3-cb4e62d8b668",
+      "userId": "U09CK4WGQUF",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.573Z"
+    },
+    {
+      "txId": "12f4667e-f819-4b8a-9e29-d366b73b261e",
+      "userId": "U091L1X1XBM",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.590Z"
+    },
+    {
+      "txId": "f1d4a0c2-f8d5-49b4-9b16-88d913bf4749",
+      "userId": "U07D01SEFFV",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.658Z"
+    },
+    {
+      "txId": "8ad1540f-96df-4ea1-8dcb-e88c87bbc2c6",
+      "userId": "U07H8T3AL2W",
+      "type": "grant",
+      "amount": 100,
+      "balanceAfter": 200,
+      "refId": "daily_grant",
+      "idemKey": "daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.705Z"
     }
   ],
   "games": {
@@ -2817,6 +3454,250 @@
     "tx:U0926KMCVDJ:challenge:9ae8f704-77b4-4162-88bc-6e014eec0523:payout:U0926KMCVDJ": {
       "key": "tx:U0926KMCVDJ:challenge:9ae8f704-77b4-4162-88bc-6e014eec0523:payout:U0926KMCVDJ",
       "createdAt": "2025-10-08T21:51:03.562Z"
+    },
+    "tx:U0828FYS2UC:daily:2025-10-12": {
+      "key": "tx:U0828FYS2UC:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.027Z"
+    },
+    "tx:U03U380TSNT:daily:2025-10-12": {
+      "key": "tx:U03U380TSNT:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.035Z"
+    },
+    "tx:U091JJ2JF8E:daily:2025-10-12": {
+      "key": "tx:U091JJ2JF8E:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.040Z"
+    },
+    "tx:U0947SL6AKB:daily:2025-10-12": {
+      "key": "tx:U0947SL6AKB:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.045Z"
+    },
+    "tx:U090B1V22BD:daily:2025-10-12": {
+      "key": "tx:U090B1V22BD:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.050Z"
+    },
+    "tx:U079XM9PARJ:daily:2025-10-12": {
+      "key": "tx:U079XM9PARJ:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.055Z"
+    },
+    "tx:U092BGL0UUQ:daily:2025-10-12": {
+      "key": "tx:U092BGL0UUQ:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.060Z"
+    },
+    "tx:U08U68WA0CR:daily:2025-10-12": {
+      "key": "tx:U08U68WA0CR:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.065Z"
+    },
+    "tx:U08S635DBUN:daily:2025-10-12": {
+      "key": "tx:U08S635DBUN:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.070Z"
+    },
+    "tx:U0926KMCVDJ:daily:2025-10-12": {
+      "key": "tx:U0926KMCVDJ:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.075Z"
+    },
+    "tx:U09GWV19TN1:daily:2025-10-12": {
+      "key": "tx:U09GWV19TN1:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.080Z"
+    },
+    "tx:U09GGK1JTC4:daily:2025-10-12": {
+      "key": "tx:U09GGK1JTC4:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.086Z"
+    },
+    "tx:U086TNY7PE0:daily:2025-10-12": {
+      "key": "tx:U086TNY7PE0:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.091Z"
+    },
+    "tx:U09CK4WGQUF:daily:2025-10-12": {
+      "key": "tx:U09CK4WGQUF:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.097Z"
+    },
+    "tx:U091L1X1XBM:daily:2025-10-12": {
+      "key": "tx:U091L1X1XBM:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.102Z"
+    },
+    "tx:U07D01SEFFV:daily:2025-10-12": {
+      "key": "tx:U07D01SEFFV:daily:2025-10-12",
+      "createdAt": "2025-10-12T04:00:00.108Z"
+    },
+    "tx:U0828FYS2UC:daily:2025-10-13": {
+      "key": "tx:U0828FYS2UC:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.068Z"
+    },
+    "tx:U03U380TSNT:daily:2025-10-13": {
+      "key": "tx:U03U380TSNT:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.102Z"
+    },
+    "tx:U091JJ2JF8E:daily:2025-10-13": {
+      "key": "tx:U091JJ2JF8E:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.113Z"
+    },
+    "tx:U0947SL6AKB:daily:2025-10-13": {
+      "key": "tx:U0947SL6AKB:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.125Z"
+    },
+    "tx:U090B1V22BD:daily:2025-10-13": {
+      "key": "tx:U090B1V22BD:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.134Z"
+    },
+    "tx:U079XM9PARJ:daily:2025-10-13": {
+      "key": "tx:U079XM9PARJ:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.144Z"
+    },
+    "tx:U092BGL0UUQ:daily:2025-10-13": {
+      "key": "tx:U092BGL0UUQ:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.152Z"
+    },
+    "tx:U08U68WA0CR:daily:2025-10-13": {
+      "key": "tx:U08U68WA0CR:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.161Z"
+    },
+    "tx:U08S635DBUN:daily:2025-10-13": {
+      "key": "tx:U08S635DBUN:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.168Z"
+    },
+    "tx:U0926KMCVDJ:daily:2025-10-13": {
+      "key": "tx:U0926KMCVDJ:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.176Z"
+    },
+    "tx:U09GWV19TN1:daily:2025-10-13": {
+      "key": "tx:U09GWV19TN1:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.185Z"
+    },
+    "tx:U09GGK1JTC4:daily:2025-10-13": {
+      "key": "tx:U09GGK1JTC4:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.196Z"
+    },
+    "tx:U086TNY7PE0:daily:2025-10-13": {
+      "key": "tx:U086TNY7PE0:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.209Z"
+    },
+    "tx:U09CK4WGQUF:daily:2025-10-13": {
+      "key": "tx:U09CK4WGQUF:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.222Z"
+    },
+    "tx:U091L1X1XBM:daily:2025-10-13": {
+      "key": "tx:U091L1X1XBM:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.235Z"
+    },
+    "tx:U07D01SEFFV:daily:2025-10-13": {
+      "key": "tx:U07D01SEFFV:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.245Z"
+    },
+    "tx:U07H8T3AL2W:daily:2025-10-13": {
+      "key": "tx:U07H8T3AL2W:daily:2025-10-13",
+      "createdAt": "2025-10-13T04:00:00.255Z"
+    },
+    "tx:U09GGK1JTC4:self:V09LHGPRSRX:bet": {
+      "key": "tx:U09GGK1JTC4:self:V09LHGPRSRX:bet",
+      "createdAt": "2025-10-13T04:04:52.113Z"
+    },
+    "tx:U09GGK1JTC4:self:V09LHGPRSRX:payout": {
+      "key": "tx:U09GGK1JTC4:self:V09LHGPRSRX:payout",
+      "createdAt": "2025-10-13T04:04:52.120Z"
+    },
+    "tx:U09GGK1JTC4:self:V09LHGPPX09:bet": {
+      "key": "tx:U09GGK1JTC4:self:V09LHGPPX09:bet",
+      "createdAt": "2025-10-13T04:05:09.472Z"
+    },
+    "tx:U09GGK1JTC4:self:V09LHGPPX09:payout": {
+      "key": "tx:U09GGK1JTC4:self:V09LHGPPX09:payout",
+      "createdAt": "2025-10-13T04:05:09.479Z"
+    },
+    "tx:U09GGK1JTC4:self:V09LHHM3P41:bet": {
+      "key": "tx:U09GGK1JTC4:self:V09LHHM3P41:bet",
+      "createdAt": "2025-10-13T04:16:30.605Z"
+    },
+    "tx:U09GGK1JTC4:self:V09LHHM3P41:payout": {
+      "key": "tx:U09GGK1JTC4:self:V09LHHM3P41:payout",
+      "createdAt": "2025-10-13T04:16:30.613Z"
+    },
+    "tx:U09GGK1JTC4:self:V09LYUHCB2L:bet": {
+      "key": "tx:U09GGK1JTC4:self:V09LYUHCB2L:bet",
+      "createdAt": "2025-10-13T04:16:42.091Z"
+    },
+    "tx:U09GGK1JTC4:self:V09KP706SDD:bet": {
+      "key": "tx:U09GGK1JTC4:self:V09KP706SDD:bet",
+      "createdAt": "2025-10-13T04:16:52.747Z"
+    },
+    "tx:U09GGK1JTC4:self:V09KP706SDD:payout": {
+      "key": "tx:U09GGK1JTC4:self:V09KP706SDD:payout",
+      "createdAt": "2025-10-13T04:16:52.754Z"
+    },
+    "tx:U09GGK1JTC4:self:V09L872ETQC:bet": {
+      "key": "tx:U09GGK1JTC4:self:V09L872ETQC:bet",
+      "createdAt": "2025-10-13T04:17:12.173Z"
+    },
+    "tx:U09GGK1JTC4:self:V09KY8PTAJX:bet": {
+      "key": "tx:U09GGK1JTC4:self:V09KY8PTAJX:bet",
+      "createdAt": "2025-10-13T04:17:18.104Z"
+    },
+    "tx:U0828FYS2UC:daily:2025-10-14": {
+      "key": "tx:U0828FYS2UC:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.213Z"
+    },
+    "tx:U03U380TSNT:daily:2025-10-14": {
+      "key": "tx:U03U380TSNT:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.303Z"
+    },
+    "tx:U091JJ2JF8E:daily:2025-10-14": {
+      "key": "tx:U091JJ2JF8E:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.325Z"
+    },
+    "tx:U0947SL6AKB:daily:2025-10-14": {
+      "key": "tx:U0947SL6AKB:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.349Z"
+    },
+    "tx:U090B1V22BD:daily:2025-10-14": {
+      "key": "tx:U090B1V22BD:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.367Z"
+    },
+    "tx:U079XM9PARJ:daily:2025-10-14": {
+      "key": "tx:U079XM9PARJ:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.387Z"
+    },
+    "tx:U092BGL0UUQ:daily:2025-10-14": {
+      "key": "tx:U092BGL0UUQ:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.417Z"
+    },
+    "tx:U08U68WA0CR:daily:2025-10-14": {
+      "key": "tx:U08U68WA0CR:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.442Z"
+    },
+    "tx:U08S635DBUN:daily:2025-10-14": {
+      "key": "tx:U08S635DBUN:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.461Z"
+    },
+    "tx:U0926KMCVDJ:daily:2025-10-14": {
+      "key": "tx:U0926KMCVDJ:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.482Z"
+    },
+    "tx:U09GWV19TN1:daily:2025-10-14": {
+      "key": "tx:U09GWV19TN1:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.503Z"
+    },
+    "tx:U09GGK1JTC4:daily:2025-10-14": {
+      "key": "tx:U09GGK1JTC4:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.527Z"
+    },
+    "tx:U086TNY7PE0:daily:2025-10-14": {
+      "key": "tx:U086TNY7PE0:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.546Z"
+    },
+    "tx:U09CK4WGQUF:daily:2025-10-14": {
+      "key": "tx:U09CK4WGQUF:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.564Z"
+    },
+    "tx:U091L1X1XBM:daily:2025-10-14": {
+      "key": "tx:U091L1X1XBM:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.584Z"
+    },
+    "tx:U07D01SEFFV:daily:2025-10-14": {
+      "key": "tx:U07D01SEFFV:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.600Z"
+    },
+    "tx:U07H8T3AL2W:daily:2025-10-14": {
+      "key": "tx:U07H8T3AL2W:daily:2025-10-14",
+      "createdAt": "2025-10-14T04:00:00.678Z"
     }
   },
   "featureFlags": {
@@ -2830,5 +3711,6 @@
     "aiDebate": true
   },
   "createdAt": "2025-10-05T18:28:11.113Z",
-  "updatedAt": "2025-10-12T01:10:25.907Z"
+  "updatedAt": "2025-10-14T04:35:11.803Z",
+  "weeksCompleted": 1
 }
